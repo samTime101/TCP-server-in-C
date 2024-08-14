@@ -1,5 +1,14 @@
 # TCP-server-in-C
 A simple tcp server in C
+
+# Usage and Test
+  In demo i used `Netcat` , i think it was already in my Linux system
+  
+  U can also use `Telnet`
+
+  alternatively u can also use `TCP clients tester`
+
+  or U can write your own TCP client in C
 # Demo
   [Screencast from 2024-08-14 12-58-14.webm](https://github.com/user-attachments/assets/0642a180-015c-44ff-bf91-fd6d7dd1c5e1)
 
