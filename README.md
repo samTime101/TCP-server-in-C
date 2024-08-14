@@ -11,7 +11,9 @@ A simple tcp server in C
   
   U can also use `Telnet`
 
-  alternatively u can also use `TCP clients tester`
+  alternatively u can also use `TCP clients tester` in PC 
+  
+  Also u can test via your mobile [TCP App android](https://play.google.com/store/apps/details?id=com.sollae.eztcpclient&hl=en)
 
   or U can write your own TCP client in C
 # Demo
