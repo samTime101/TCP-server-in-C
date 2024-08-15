@@ -16,6 +16,18 @@ A simple tcp server in C
   Also u can test via your mobile [TCP App android](https://play.google.com/store/apps/details?id=com.sollae.eztcpclient&hl=en)
 
   or U can write your own TCP client in C
+  
+**update**
+
+I have added client.c code
+
+To compile 
+`gcc client.c -o client`
+
+then 
+
+`./client <ip_addr> <port>`
+
 # Demo
   [Screencast from 2024-08-14 12-58-14.webm](https://github.com/user-attachments/assets/0642a180-015c-44ff-bf91-fd6d7dd1c5e1)
 
