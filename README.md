@@ -13,7 +13,7 @@ A simple tcp server in C
 
   alternatively u can also use `TCP clients tester` in PC 
   
-  Also u can test via your mobile [TCP App android](https://play.google.com/store/apps/details?id=com.sollae.eztcpclient&hl=en)
+  Also u can test via your mobile [TCP App android](https://play.google.com/store/apps/details?id=com.hardcodedjoy.tcpclient&hl=en)
 
   or U can write your own TCP client in C
   
